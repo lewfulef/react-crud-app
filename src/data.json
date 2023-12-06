@@ -1,0 +1,23 @@
+{
+    "plans": [
+        
+        {
+            "name": "PLAN BÁSICO",
+            "sku": "ABC123",
+            "price": "$15.000",
+            "description": "basico Lorem ipsum"
+        },
+        {
+            "name": "PLAN ESTÁNDAR",
+            "sku": "DEF456",
+            "price": "$20.000",
+            "description": "estandar Lorem ipsum"
+        },
+        {
+            "name": "PLAN PREMIUN",
+            "sku": "GHI789",
+            "price": "$30.000",
+            "description": "premium Lorem ipsum"
+        }
+    ]
+}
