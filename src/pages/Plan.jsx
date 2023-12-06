@@ -7,6 +7,11 @@ export const Plan = () => {
   console.log(data);
   return (
     <>
+
+    <h1>Página de planes</h1>
+
+    <br />
+
       {data.plans.map((plan) => (
         <Card key={plan.sku} style={{ width: "18rem" }}>
           <Card.Img variant="top" src="holder.js/100px180" />
